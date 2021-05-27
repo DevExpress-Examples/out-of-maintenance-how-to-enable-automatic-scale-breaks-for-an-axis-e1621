@@ -5,9 +5,6 @@
 <!-- default file list end -->
 # How to enable automatic scale breaks for an axis
 
+This example demonstrates how an [axis range](https://docs.devexpress.com/WindowsForms/5803/controls-and-libraries/chart-control/axis-ranges?p=netframework) can be automatically split by [scale breaks](https://docs.devexpress.com/WindowsForms/6232/controls-and-libraries/chart-control/axes/scale-breaks?p=netframework), if the chart's data suggests their use. To learn about an alternative approach - manual scale breaks creation, refer to [How to insert a scale break into an axis](https://docs.devexpress.com/WindowsForms/6253/controls-and-libraries/chart-control/examples/chart-elements/how-to-manually-insert-a-scale-break-into-an-axis-runtime-sample?p=netframework).
 
-<p>This example demonstrates how an <a href="http://www.devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument5803.htm">axis range</a> can be automatically split by <a href="http://www.devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument6232.htm">scale breaks</a>, if the chart's data suggests their use. To learn about an alternative approach - manual scale breaks creation, refer to <a href="https://www.devexpress.com/Support/Center/p/E1493">How to insert a scale break into an axis</a>.</p><p>Note that both auto-created and manual scale breaks on an axis can co-exist, without affecting the chart's output, in cases where their ranges interfere.</p><p>See also: <a href="https://www.devexpress.com/Support/Center/p/E1493">How to insert a scale break into an axis</a>.</p>
-
-<br/>
-
-
+Note that both auto-created and manual scale breaks on an axis can co-exist, without affecting the chart's output, in cases where their ranges interfere.
